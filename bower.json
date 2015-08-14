@@ -1,0 +1,18 @@
+{
+  "name": "angularjs-google-map-loader",
+  "version": "1.0.0",
+  "authors": [
+    "Anderlu"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angularjs": "~1.4.4"
+  }
+}

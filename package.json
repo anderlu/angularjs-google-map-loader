@@ -1,0 +1,21 @@
+{
+  "name": "angularjs-google-map-loader",
+  "version": "1.0.0",
+  "description": "a google map lib loader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "google",
+    "map",
+    "angularjs"
+  ],
+  "author": "Anderlu",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.8.0",
+    "bower": "^1.4.1",
+    "gulp": "^3.9.0"
+  }
+}
